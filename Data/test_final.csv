@@ -1,0 +1,149 @@
+,ID,Year,First Name,Middle Name,Last Name,party,Level,Position,state,race_ethnicity,state_name,ideology,leadership
+0,196595k,2022,Alma,S.,Adams,Democrat,Congress,U.S. Representative,NC,Black,North Carolina,0.2214196738842678,0.7363680041970524
+1,627442k,2022,Cindy,,Axne,Democrat,Congress,U.S. Representative,IA,White,Iowa,0.5082745194961261,0.4655202347467091
+2,226476k,2022,Karen,R.,Bass,Democrat,Congress,U.S. Representative,CA,Black,California,0.1533696502131935,0.84963945182827
+3,197852k,2022,Joyce,B.,Beatty,Democrat,Congress,U.S. Representative,OH,Black,Ohio,0.2544284179983619,0.6398391316287932
+4,495403k,2022,Stephanie,,Bice,Republican,Congress,U.S. Representative,OK,White,Oklahoma,,
+5,558891k,2022,Lisa,,Blunt Rochester,Democrat,Congress,U.S. Representative,DE,Black,Delaware,0.3024530193347228,0.4459089406528202
+6,724132k,2022,Lauren,,Boebert,Republican,Congress,U.S. Representative,CO,White,Colorado,,
+7,249764k,2022,Suzanne,M.,Bonamici,Democrat,Congress,U.S. Representative,OR,White,Oregon,0.1954845780081286,0.6205508344299735
+8,629889k,2022,Carolyn,,Bourdeaux,Democrat,Congress,U.S. Representative,GA,White,Georgia,,
+9,772727k,2022,Shontel,,Brown,Democrat,Congress,U.S. Representative,OH,Black,Ohio,,
+10,248455k,2022,Julia,,Brownley,Democrat,Congress,U.S. Representative,CA,White,California,0.2640151276637464,0.8654142638927261
+11,571342k,2022,Cori,,Bush,Democrat,Congress,U.S. Representative,MO,Black,Missouri,,
+12,378493k,2022,Cheri,L.,Bustos,Democrat,Congress,U.S. Representative,IL,White,Illinois,0.3689466232195875,0.5395821412350228
+13,447426k,2022,Kat,,Cammack,Republican,Congress,U.S. Representative,FL,White,Florida,,
+14,248289k,2022,Kathy,A.,Castor,Democrat,Congress,U.S. Representative,FL,White,Florida,0.2090918049934632,0.8030307828160685
+15,464230k,2022,Liz,L.,Cheney,Republican,Congress,U.S. Representative,WY,White,Wyoming,0.6781311016657394,0.4511656425779302
+16,665191k,2022,Sheila,,Cherfilus-McCormick,Democrat,Congress,U.S. Representative,FL,Black,Florida,,
+17,209456k,2022,Judy,,Chu,Democrat,Congress,U.S. Representative,CA,Asian American/Pacific Islander,California,0.1302381901648175,0.8876328580942247
+18,263010k,2022,Katherine,M.,Clark,Democrat,Congress,U.S. Representative,MA,White,Massachusetts,0.2095856413587212,0.6250231018414283
+19,248335k,2022,Yvette,D.,Clarke,Democrat,Congress,U.S. Representative,NY,Black,New York,0.1165322770074621,0.6475152893540589
+20,536254k,2022,Angela,D.,Craig,Democrat,Congress,U.S. Representative,MN,White,Minnesota,0.4184231409561414,0.5894385435165359
+21,655850k,2022,Sharice,,Davids,Democrat,Congress,U.S. Representative,KS,Native American/Alaska Native/Native Hawaiian,Kansas,0.3458365513388516,0.1943388462631586
+22,569358k,2022,Madeleine,,Dean,Democrat,Congress,U.S. Representative,PA,White,Pennsylvania,0.2600994881770547,0.4145843460361906
+23,158770k,2022,Diana,L.,DeGette,Democrat,Congress,U.S. Representative,CO,White,Colorado,0.2413763475758596,0.7992953334891265
+24,158778k,2022,Rosa,L.,DeLauro,Democrat,Congress,U.S. Representative,CT,White,Connecticut,0.2301750856279712,0.908642976624238
+25,284676k,2022,Suzan,K.,DelBene,Democrat,Congress,U.S. Representative,WA,White,Washington,0.2921228030589203,0.8135714387695538
+26,378538k,2022,Val,B.,Demings,Democrat,Congress,U.S. Representative,FL,Black,Florida,0.2743187485954376,0.4547955416651608
+27,536062k,2022,Nanette,,Diaz Barragan,Democrat,Congress,U.S. Representative,CA,Latina,California,,
+28,357079k,2022,Debbie,,Dingell,Democrat,Congress,U.S. Representative,MI,White,Michigan,0.2475790037046921,0.7847208243351894
+29,634679k,2022,Veronica,,Escobar,Democrat,Congress,U.S. Representative,TX,Latina,Texas,0.2406227366614753,0.4556407588257175
+30,158731k,2022,Anna,G.,Eshoo,Democrat,Congress,U.S. Representative,CA,White,California,0.2380055730332386,0.7220040997285481
+31,195769k,2022,Michelle,L.,Fischbach,Republican,Congress,U.S. Representative,MN,White,Minnesota,,
+32,196515k,2022,Virginia,A.,Foxx,Republican,Congress,U.S. Representative,NC,White,North Carolina,0.5490054893168587,0.4643021179555842
+33,193594k,2022,Lois,J.,Frankel,Democrat,Congress,U.S. Representative,FL,White,Florida,0.3111903798605119,0.7296781556137703
+34,454041k,2022,Sylvia,R.,Garcia,Democrat,Congress,U.S. Representative,TX,Latina,Texas,0.2044254387500099,0.4589261830788236
+35,159082k,2022,Kay,N.,Granger,Republican,Congress,U.S. Representative,TX,White,Texas,0.5597368136922872,0.360020680677981
+36,707878k,2022,Marjorie,,Greene,Republican,Congress,U.S. Representative,GA,White,Georgia,,
+37,734559k,2022,Diana,,Harshbarger,Republican,Congress,U.S. Representative,TN,White,Tennessee,,
+38,284768k,2022,Vicky,Jo,Hartzler,Republican,Congress,U.S. Representative,MO,White,Missouri,0.9317251188064698,0.6886383801975077
+39,666101k,2022,Jahana,,Hayes,Democrat,Congress,U.S. Representative,CT,Black,Connecticut,0.1031586129624081,0.5803785150156742
+40,299694k,2022,Yvette,S.,Herrell,Republican,Congress,U.S. Representative,NM,White,New Mexico,,
+41,229353k,2022,Jaime,L.,Herrera Beutler,Republican,Congress,U.S. Representative,WA,Latina,Washington,0.5603278920577163,0.2525756601780124
+42,572935k,2022,Ashley,,Hinson,Republican,Congress,U.S. Representative,IA,White,Iowa,,
+43,621721k,2022,Chrissy,,Houlahan,Democrat,Congress,U.S. Representative,PA,White,Pennsylvania,0.4050248140287251,0.6152652821464891
+44,644085k,2022,Sara,,Jacobs,Democrat,Congress,U.S. Representative,CA,White,California,,
+45,499054k,2022,Pramila,,Jayapal,Democrat,Congress,U.S. Representative,WA,Asian American/Pacific Islander,Washington,0.0746512360537982,0.8428870459054383
+46,159100k,2022,Eddie,Bernice,Johnson,Democrat,Congress,U.S. Representative,TX,Black,Texas,0.1789545860192935,0.8802581999884781
+47,159009k,2022,Marcy,C.,Kaptur,Democrat,Congress,U.S. Representative,OH,White,Ohio,0.2901932447526791,0.6649897977774235
+48,212680k,2022,Robin,L.,Kelly,Democrat,Congress,U.S. Representative,IL,Black,Illinois,0.2640667100992828,0.7030794108685275
+49,494206k,2022,Young,O.,Kim,Republican,Congress,U.S. Representative,CA,Asian American/Pacific Islander,California,,
+50,227470k,2022,Ann,L.,Kirkpatrick,Democrat,Congress,U.S. Representative,AZ,White,Arizona,0.3507048406397537,0.4854071675715327
+51,284835k,2022,Ann,McLane,Kuster,Democrat,Congress,U.S. Representative,NH,White,New Hampshire,0.3940790156791218,0.7198337643923318
+52,391655k,2022,Brenda,L.,Lawrence,Democrat,Congress,U.S. Representative,MI,Black,Michigan,0.1931424382578453,0.6886796605414875
+53,158726k,2022,Barbara,J.,Lee,Democrat,Congress,U.S. Representative,CA,Black,California,0.0,0.902536296037163
+54,159088k,2022,Sheila,Jackson,Lee,Democrat,Congress,U.S. Representative,TX,Black,Texas,,
+55,541030k,2022,Susie,,Lee,Democrat,Congress,U.S. Representative,NV,White,Nevada,0.4059182290018691,0.614197887847273
+56,453352k,2022,Teresa,,Leger Fernandez,Democrat,Congress,U.S. Representative,NM,Latina,New Mexico,,
+57,267627k,2022,Debbie,,Lesko,Republican,Congress,U.S. Representative,AZ,White,Arizona,0.9138081496215684,0.4956628515980904
+58,768497k,2022,Julia,,Letlow,Republican,Congress,U.S. Representative,LA,White,Louisiana,,
+59,158733k,2022,Zoe,,Lofgren,Democrat,Congress,U.S. Representative,CA,White,California,0.2585416530291419,0.837890122216801
+60,644669k,2022,Elaine,G.,Luria,Democrat,Congress,U.S. Representative,VA,White,Virginia,0.4361242659623956,0.56109505673992
+61,466143k,2022,Nancy,,Mace,Republican,Congress,U.S. Representative,SC,White,South Carolina,,
+62,309650k,2022,Nicole,,Malliotakis,Republican,Congress,U.S. Representative,NY,"White, Latina",New York,,
+63,158983k,2022,Carolyn,B.,Maloney,Democrat,Congress,U.S. Representative,NY,White,New York,0.1690516530958587,0.7552812491085678
+64,158983k,2022,Carolyn,B.,Maloney,Democrat,Congress,U.S. Representative,NY,White,New York,0.1690516530958587,0.984014366468234
+65,158983k,2022,Carolyn,B.,Maloney,Democrat,Congress,U.S. Representative,NY,White,New York,0.2955986536212935,0.7552812491085678
+66,158983k,2022,Carolyn,B.,Maloney,Democrat,Congress,U.S. Representative,NY,White,New York,0.2955986536212935,0.984014366468234
+67,646745k,2022,Kathy,,Manning,Democrat,Congress,U.S. Representative,NC,White,North Carolina,,
+68,232639k,2022,Doris,O.,Matsui,Democrat,Congress,U.S. Representative,CA,Asian American/Pacific Islander,California,0.2539109751311956,0.7159275693844744
+69,658185k,2022,Lucy,,McBath,Democrat,Congress,U.S. Representative,GA,Black,Georgia,0.374649314143192,0.5263780826022951
+70,721727k,2022,Lisa,,McClain,Republican,Congress,U.S. Representative,MI,White,Michigan,,
+71,195933k,2022,Betty,,McCollum,Democrat,Congress,U.S. Representative,MN,White,Minnesota,0.2191424404652585,0.642126300868078
+72,199779k,2022,Cathy,,McMorris Rodgers,Republican,Congress,U.S. Representative,WA,White,Washington,,
+73,271828k,2022,Grace,,Meng,Democrat,Congress,U.S. Representative,NY,Asian American/Pacific Islander,New York,0.2043063753882449,0.8724694850851853
+74,249553k,2022,Carol,D.,Miller,Republican,Congress,U.S. Representative,WV,White,West Virginia,0.6988155677267726,0.2361891519198109
+75,721413k,2022,Mary,,Miller,Republican,Congress,U.S. Representative,IL,White,Illinois,,
+76,267080k,2022,Mariannette,,Miller-Meeks,Republican,Congress,U.S. Representative,IA,White,Iowa,,
+77,199871k,2022,Gwen,S.,Moore,Democrat,Congress,U.S. Representative,WI,Black,Wisconsin,0.1261183360505661,0.6750593833915978
+78,588810k,2022,Stephanie,,Murphy,Democrat,Congress,U.S. Representative,FL,Asian American/Pacific Islander,Florida,0.4581270554842777,0.3674674538458982
+79,158751k,2022,Grace,F.,Napolitano,Democrat,Congress,U.S. Representative,CA,Latina,California,0.1696806314441732,0.682978193162124
+80,619144k,2022,Marie,,Newman,Democrat,Congress,U.S. Representative,IL,White,Illinois,,
+81,624858k,2022,Alexandria,,Ocasio-Cortez,Democrat,Congress,U.S. Representative,NY,Latina,New York,0.0875001042786098,0.4781411801886578
+82,583510k,2022,Ilhan,,Omar,Democrat,Congress,U.S. Representative,MN,Black,Minnesota,0.1006704953922731,0.5679097728509597
+83,625330k,2022,Elizabeth,,Pannill Fletcher,Democrat,Congress,U.S. Representative,TX,White,Texas,,
+84,158725k,2022,Nancy,,Pelosi,Democrat,Congress,U.S. Representative,CA,White,California,0.3606229275088625,0.0063638156681798
+85,267137k,2022,Chellie,M.,Pingree,Democrat,Congress,U.S. Representative,ME,White,Maine,0.2570849363210468,0.4722224001015503
+86,621002k,2022,Katherine,,Porter,Democrat,Congress,U.S. Representative,CA,White,California,0.2383388795088096,0.6309244782567454
+87,234321k,2022,Ayanna,,Pressley,Democrat,Congress,U.S. Representative,MA,Black,Massachusetts,0.0545041958960496,0.7498002127463071
+88,489426k,2022,Kathleen,M.,Rice,Democrat,Congress,U.S. Representative,NY,White,New York,0.4192101222961495,0.7418088314976777
+89,211983k,2022,Deborah,,Ross,Democrat,Congress,U.S. Representative,NC,White,North Carolina,,
+90,158750k,2022,Lucille,,Roybal-Allard,Democrat,Congress,U.S. Representative,CA,Latina,California,0.1711287959613928,0.7277890180836951
+91,658161k,2022,Maria,,Salazar,Republican,Congress,U.S. Representative,FL,Latina,Florida,,
+92,211684k,2022,Linda,T.,Sanchez,Democrat,Congress,U.S. Representative,CA,Latina,California,,
+93,655204k,2022,Mary,Gay,Scanlon,Democrat,Congress,U.S. Representative,PA,White,Pennsylvania,0.1915629044218183,0.3910477639947708
+94,158836k,2022,Jan,D.,Schakowsky,Democrat,Congress,U.S. Representative,IL,White,Illinois,0.0607104787332853,0.9529193167907442
+95,632874k,2022,Kim,,Schrier,Democrat,Congress,U.S. Representative,WA,White,Washington,0.3517754078405817,0.4570459340470055
+96,283908k,2022,Terri,A.,Sewell,Democrat,Congress,U.S. Representative,AL,Black,Alabama,0.319223779528793,0.904466515122707
+97,625260k,2022,Mikie,,Sherrill,Democrat,Congress,U.S. Representative,NJ,White,New Jersey,0.3848711721928343,0.4636741754808483
+98,261745k,2022,Elissa,,Slotkin,Democrat,Congress,U.S. Representative,MI,White,Michigan,0.419421435227045,0.6185819048422863
+99,630216k,2022,Abigail,D.,Spanberger,Democrat,Congress,U.S. Representative,VA,White,Virginia,0.5045442083151662,0.5844973095452498
+100,638877k,2022,Victoria,,Spartz,Republican,Congress,U.S. Representative,IN,White,Indiana,,
+101,192997k,2022,Jackie,,Speier,Democrat,Congress,U.S. Representative,CA,White,California,0.2136465881207913,0.982012408502795
+102,461875k,2022,Melanie,A.,Stansbury,Democrat,Congress,U.S. Representative,NM,White,New Mexico,,
+103,694474k,2022,Michelle,,Steel,Republican,Congress,U.S. Representative,CA,Asian American/Pacific Islander,California,,
+104,247560k,2022,Elise,M.,Stefanik,Republican,Congress,U.S. Representative,NY,White,New York,0.7596498462230504,0.735608941907444
+105,623571k,2022,Haley,,Stevens,Democrat,Congress,U.S. Representative,MI,White,Michigan,0.3455374450585584,0.2585260084606234
+106,727678k,2022,Marilyn,,Strickland,Democrat,Congress,U.S. Representative,WA,"Black, Asian American/Pacific Islander",Washington,,
+107,216162k,2022,Claudia,,Tenney,Republican,Congress,U.S. Representative,NY,White,New York,,
+108,197530k,2022,Dina,C.,Titus,Democrat,Congress,U.S. Representative,NV,White,Nevada,0.2641112493866983,0.7483003013371524
+109,268236k,2022,Rashida,,Tlaib,Democrat,Congress,U.S. Representative,MI,Middle Eastern/North African,Michigan,0.0768066786786435,0.4866843170887746
+110,267783k,2022,Norma,J.,Torres,Democrat,Congress,U.S. Representative,CA,Latina,California,0.2624313365382366,0.6328436984006053
+111,636951k,2022,Lori,,Trahan,Democrat,Congress,U.S. Representative,MA,White,Massachusetts,0.2604619604898419,0.551988328059858
+112,601601k,2022,Lauren,A.,Underwood,Democrat,Congress,U.S. Representative,IL,Black,Illinois,0.297891537721708,0.598673946710786
+113,661605k,2022,Beth,,Van Duyne,Republican,Congress,U.S. Representative,TX,White,Texas,,
+114,158981k,2022,Nydia,M.,Velazquez,Democrat,Congress,U.S. Representative,NY,Latina,New York,,
+115,378827k,2022,Ann,L.,Wagner,Republican,Congress,U.S. Representative,MO,White,Missouri,0.7652186803503325,0.5758678596848883
+116,227370k,2022,Jackie,Swihart,Walorski,Republican,Congress,U.S. Representative,IN,White,Indiana,0.7468174629198483,0.412767516673702
+117,226499k,2022,Debbie,,Wasserman Schultz,Democrat,Congress,U.S. Representative,FL,White,Florida,0.2338098413457605,0.6077290843767422
+118,158752k,2022,Maxine,,Waters,Democrat,Congress,U.S. Representative,CA,Black,California,0.2007677702460168,0.7563838718096276
+119,362925k,2022,Bonnie,,Watson Coleman,Democrat,Congress,U.S. Representative,NJ,Black,New Jersey,0.1012190212762527,0.6216527178730002
+120,484877k,2022,Jennifer,T.,Wexton,Democrat,Congress,U.S. Representative,VA,White,Virginia,0.299076685854225,0.5136713895659688
+121,638609k,2022,Susan,Ellis,Wild,Democrat,Congress,U.S. Representative,PA,White,Pennsylvania,0.2942423248071326,0.6034247506801824
+122,648743k,2022,Nikema,,Williams,Democrat,Congress,U.S. Representative,GA,Black,Georgia,,
+123,211856k,2022,Frederica,S.,Wilson,Democrat,Congress,U.S. Representative,FL,Black,Florida,0.1332639380766112,0.6819957177846114
+0,159127k,2022,Tammy,,Baldwin,Democrat,Congress,U.S. Senator,WI,White,Wisconsin,0.20931439775211,0.6559256477783683
+1,198986k,2022,Marsha,,Blackburn,Republican,Congress,U.S. Senator,TN,White,Tennessee,1.0,0.4953823915733168
+2,205537k,2022,Maria,,Cantwell,Democrat,Congress,U.S. Senator,WA,White,Washington,0.3415861430872271,0.3621429747130823
+3,200084k,2022,Shelley,Moore,Capito,Republican,Congress,U.S. Senator,WV,White,West Virginia,0.7551780905627227,0.3274673031584897
+4,165234k,2022,Susan,,Collins,Republican,Congress,U.S. Senator,ME,White,Maine,0.6088764794766894,0.7518380514260852
+5,252293k,2022,Catherine,,Cortez Masto,Democrat,Congress,U.S. Senator,NV,Latina,Nevada,0.289106975388481,0.4899027888749208
+6,264841k,2022,Tammy,,Duckworth,Democrat,Congress,U.S. Senator,IL,Asian American/Pacific Islander,Illinois,0.2671354845754197,0.4915577135936861
+7,328986k,2022,Joni,,Ernst,Republican,Congress,U.S. Senator,IA,White,Iowa,0.9231190241813788,0.5182800426072763
+8,165201k,2022,Dianne,,Feinstein,Democrat,Congress,U.S. Senator,CA,White,California,0.2418478363712515,0.631169585543912
+9,228296k,2022,Deb,,Fischer,Republican,Congress,U.S. Senator,NE,White,Nebraska,0.8087266252938884,0.2702301652798128
+10,248345k,2022,Kirsten,E.,Gillibrand,Democrat,Congress,U.S. Senator,NY,White,New York,0.0623939854122998,0.5792524090359764
+11,227982k,2022,Maggie,,Hassan,Democrat,Congress,U.S. Senator,NH,White,New Hampshire,0.4581275397945945,0.362901756349417
+12,248294k,2022,Mazie,K.,Hirono,Democrat,Congress,U.S. Senator,HI,Asian American/Pacific Islander,Hawaii,0.1244823683400343,0.4428907570450947
+13,196212k,2022,Cindy,,Hyde-Smith,Republican,Congress,U.S. Senator,MS,White,Mississippi,0.8845866856784902,0.3047725168795167
+14,248506k,2022,Amy,,Klobuchar,Democrat,Congress,U.S. Senator,MN,White,Minnesota,0.1915997169049615,0.7401992895220791
+15,240578k,2022,Cynthia,M.,Lummis,Republican,Congress,U.S. Senator,WY,White,Wyoming,,
+16,192554k,2022,Lisa,,Murkowski,Republican,Congress,U.S. Senator,AK,White,Alaska,0.5683381964512569,0.6235000346985762
+17,165286k,2022,Patty,,Murray,Democrat,Congress,U.S. Senator,WA,White,Washington,0.2127451790653449,0.579284842041384
+18,567336k,2022,Jacklyn,S.,Rosen,Democrat,Congress,U.S. Senator,NV,White,Nevada,0.3408482820088204,0.4522491780965729
+19,209675k,2022,Jeanne,,Shaheen,Democrat,Congress,U.S. Senator,NH,White,New Hampshire,0.357630608726635,0.6828903583400016
+20,227495k,2022,Kyrsten,,Sinema,Democrat,Congress,U.S. Senator,AZ,White,Arizona,0.6758048564532102,0.3896367552383291
+21,332335k,2022,Tina,,Smith,Democrat,Congress,U.S. Senator,MN,White,Minnesota,0.2361637770902647,0.4993796587987121
+22,205511k,2022,Debbie,A.,Stabenow,Democrat,Congress,U.S. Senator,MI,White,Michigan,0.2602709832891195,0.4662315710221738
+23,309189k,2022,Elizabeth,A.,Warren,Democrat,Congress,U.S. Senator,MA,White,Massachusetts,0.2102200370610991,0.6432907832406126

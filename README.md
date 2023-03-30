@@ -26,7 +26,7 @@ The code used for the models and data analysis and their respective folders can 
 7. Files for Heroku App hosting : requirements.txt, app.py, runtime.txt, Procfile, .gitignore, assets
 
 ### Visualization Link
-https://twittermisogyny.herokuapp.com/
+https://twittermisogyny.herokuapp.com/ (currently under construction)
 
 ### Packages 
 Packages required to run each notebook. 

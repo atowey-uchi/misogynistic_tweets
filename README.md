@@ -1,5 +1,4 @@
 # Women in Polictics and Misogynistic Twitter Mentions
-Project by Allison Towey, Thiyaghessan Poongrundar, Pranathi Iyer, and Val Alvern Cueco Ligo.
 
 ### Objective
 1. Classify tweets containing explicit and implicit misogynistic content 
